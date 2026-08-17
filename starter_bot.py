@@ -1,6 +1,6 @@
-# Name: [Your Name Here]
-# College: [Your College Here]
-# Roll Number: [Your Roll Number Here]
+# Name: Heet Nisar
+# College: Dwarkadas J. Sanghvi College of Engineering
+# Roll Number: 60005240044
 
 """
 starter_bot.py — Divided Oracle: Strategy Template
